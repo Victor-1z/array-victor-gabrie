@@ -1,0 +1,17 @@
+# Lista com nomes dos colegas da turma
+colegas = ["Jarla Giovana", "João Pedro", "Dayson Oliveira", "Rosimere", "Amanda"]
+
+# Mostrar o primeiro elemento
+print("Primeiro nome:", colegas[0])
+
+# Mostrar o terceiro elemento
+print("Terceiro nome:", colegas[2])
+
+# Mostrar o último elemento
+print("Último nome:", colegas[4])
+
+# Desafio extra: verificar se "Carla" está na lista
+if "Carla" in colegas:
+    print("Carla está na lista!")
+else:
+    print("Carla não foi encontrada na lista.")
